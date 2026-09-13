@@ -1,33 +1,43 @@
 # OpenUtau Themes
 
-A collection of themes based on popular color palettes.  
+A collection of themes based on popular UI color palettes.  
 To use, put the yaml file in your OpenUtau/Themes folder.
+
+## Catppuccin Mocha/Macchiato/Frappé/Latte
+
+[Source](https://catppuccin.com/palette/)
+
+![Catppuccin Mocha theme](img/catppuccin-mocha.png)  
+![Catppuccin Macchiato theme](img/catppuccin-macchiato.png)  
+![Catppuccin Frappé theme](img/catppuccin-frappe.png)  
+![Catppuccin Latte theme](img/catppuccin-latte.png)  
 
 ## Dracula/Alucard
 
 [Source](https://draculatheme.com/spec)
 
-todo: add screenshots
+![Dracula piano roll](img/dracula1.png)  
+![Dracula with yellow pitchbends](img/dracula2.png)
 
-## Catppuccin Mocha/Macchiato/Frappe/Latte
+I'm looking for advice on the Alucard theme. Please feel free to make suggestions for which colors to use from the official color palette.
 
-[Source](https://catppuccin.com/palette/)
-
-todo: add screenshots
+![Alucard theme](img/alucard.png)
 
 ## Gruvbox Dark/Light
 
 [Source](https://github.com/morhetz/gruvbox)
 
-todo: add screenshots
+![Gruvbox Dark theme](img/gruvbox-dark.png)  
+![Gruvbox Light theme](img/gruvbox-light.png)
 
 ## Monokai
 
 [Source](https://monokai.pro/contribute)
 
-todo: add screenshots
+![Monokai theme](img/monokai.png)
 
 ## Planned themes
 
 - [Solarized Light/Dark](https://ethanschoonover.com/solarized/)
 - [Tokyo Night Dark/Storm/Light](https://wixdaq.github.io/Tokyo-Night-Website/palette.html)
+- Feel free to suggest or contribute any other popular and well-documented color palettes. 
