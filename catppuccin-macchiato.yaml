@@ -1,0 +1,33 @@
+name: Catppuccin Macchiato
+is_dark_mode: true
+background_color: "#24273a" # base
+background_color_pointer_over: "#494d64" # surface 1
+background_color_pressed: "#5b6078" # surface 2
+background_color_disabled: "#363a4f" # surface 0
+foreground_color: "#b8c0e0" # subtext 1
+foreground_color_pointer_over: "#b8c0e0" # subtext 1
+foreground_color_pressed: "#cad3f5" # text
+foreground_color_disabled: "#6e738d" # overlay 0
+border_color: "#5b6078" # surface 2
+border_color_pointer_over: "#8087a2" # overlay 1
+system_accent_color: "#8aadf4" # blue
+system_accent_color_light1: "#91d7e3" # sky
+system_accent_color_dark1: "#8aadf4" # blue
+neutral_accent_color: "#5b6078" # surface 2
+neutral_accent_color_pointer_over: "#6e738d" # overlay 0
+accent_color1: "#8aadf4" # blue
+accent_color2: "#ed8796" # red
+accent_color3: "#f5bde6" # pink
+tick_line_color: "#5b6078" # surface 2
+bar_number_color: "#939ab7" # overlay 2
+final_pitch_color: "#939ab7" # overlay 2
+track_background_alt_color: "#363a4f" # surface 0
+white_key_color_left: "#ed8796" # red
+white_key_color_right: "#f5bde6" # pink
+white_key_name_color: "#363a4f" # text or surface 0
+center_key_color_left: "#8087a2" # overlay 1
+center_key_color_right: "#939ab7" # overlay 2
+center_key_name_color: "#24273a" # red or base
+black_key_color_left: "Transparent"
+black_key_color_right: "Transparent"
+black_key_name_color: "#cad3f5" # text

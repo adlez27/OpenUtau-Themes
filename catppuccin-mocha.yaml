@@ -1,0 +1,33 @@
+name: Catppuccin Mocha
+is_dark_mode: true
+background_color: "#1e1e2e" # base
+background_color_pointer_over: "#45475a" # surface 1
+background_color_pressed: "#585b70" # surface 2
+background_color_disabled: "#313244" # surface 0
+foreground_color: "#bac2de" # subtext 1
+foreground_color_pointer_over: "#bac2de" # subtext 1
+foreground_color_pressed: "#cdd6f4" # text
+foreground_color_disabled: "#6c7086" # overlay 0
+border_color: "#585b70" # surface 2
+border_color_pointer_over: "#7f849c" # overlay 1
+system_accent_color: "#89b4fa" # blue
+system_accent_color_light1: "#89dceb" # sky
+system_accent_color_dark1: "#89b4fa" # blue
+neutral_accent_color: "#585b70" # surface 2
+neutral_accent_color_pointer_over: "#6c7086" # overlay 0
+accent_color1: "#89b4fa" # blue
+accent_color2: "#f38ba8" # red
+accent_color3: "#f5c2e7" # pink
+tick_line_color: "#585b70" # surface 2
+bar_number_color: "#9399b2" # overlay 2
+final_pitch_color: "#9399b2" # overlay 2
+track_background_alt_color: "#313244" # surface 0
+white_key_color_left: "#f38ba8" # red
+white_key_color_right: "#f5c2e7" # pink
+white_key_name_color: "#313244" # text or surface 0
+center_key_color_left: "#7f849c" # overlay 1
+center_key_color_right: "#9399b2" # overlay 2
+center_key_name_color: "#1e1e2e" # red or base
+black_key_color_left: "Transparent"
+black_key_color_right: "Transparent"
+black_key_name_color: "#cdd6f4" # text
