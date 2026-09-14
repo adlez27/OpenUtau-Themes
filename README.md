@@ -19,6 +19,13 @@ To use, put the yaml file in your OpenUtau/Themes folder.
 ![Dracula theme](img/dracula.png)  
 ![Alucard theme](img/alucard.png)
 
+## Everforest Dark/Light
+
+[Source](https://github.com/sainnhe/everforest)
+
+![Everforest Dark theme](img/everforest-dark.png)  
+![Everforest Light theme](img/everforest-light.png)
+
 ## Gruvbox Dark/Light
 
 [Source](https://github.com/morhetz/gruvbox)
@@ -32,7 +39,7 @@ To use, put the yaml file in your OpenUtau/Themes folder.
 
 ![Monokai theme](img/monokai.png)
 
-## Nord Dark/Light 
+## Nord Dark/Light
 
 [Source](https://www.nordtheme.com/docs/colors-and-palettes)
 
@@ -49,6 +56,5 @@ To use, put the yaml file in your OpenUtau/Themes folder.
 ## Planned themes
 
 - Tokyo Night Original/Moon/Storm/Light ([source 1](https://wixdaq.github.io/Tokyo-Night-Website/palette.html)) ([source 2](https://github.com/folke/tokyonight.nvim/tree/main/lua/tokyonight/colors))
-- [Everforest Dark/Light](https://github.com/sainnhe/everforest)
 - [Rosé Pine Original/Moon/Dawn](https://rosepinetheme.com/palette/)
 - Feel free to suggest or contribute any other popular and well-documented color palettes.
