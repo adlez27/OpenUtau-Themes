@@ -16,11 +16,7 @@ To use, put the yaml file in your OpenUtau/Themes folder.
 
 [Source](https://draculatheme.com/spec)
 
-![Dracula piano roll](img/dracula1.png)  
-![Dracula with yellow pitchbends](img/dracula2.png)
-
-I'm looking for advice on the Alucard theme. Please feel free to make suggestions for which colors to use from the official color palette.
-
+![Dracula theme](img/dracula.png)  
 ![Alucard theme](img/alucard.png)
 
 ## Gruvbox Dark/Light

@@ -1,7 +1,7 @@
 name: Solarized (Light)
 is_dark_mode: false
 background_color: '#fdf6e3'
-background_color_pointer_over: '#fdf6e3'
+background_color_pointer_over: '#fefae8'
 background_color_pressed: '#eee8d5'
 background_color_disabled: '#eee8d5'
 foreground_color: '#002b36'
