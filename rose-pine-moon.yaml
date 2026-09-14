@@ -1,0 +1,33 @@
+name: Rosé Pine Moon
+is_dark_mode: true
+background_color: "#232136" # base
+background_color_pointer_over: "#2a283e" # highlight-low
+background_color_pressed: "#393552" # overlay
+background_color_disabled: "#2a273f" # surface
+foreground_color: "#e0def4" # text
+foreground_color_pointer_over: "#e0def4" # text
+foreground_color_pressed: "#e0def4" # text
+foreground_color_disabled: "#56526e" # highlight-high
+border_color: "#44415a" # highlight-med
+border_color_pointer_over: "#908caa" # subtle
+system_accent_color: "#3e8fb0" # pine
+system_accent_color_light1: "#9ccfd8" # foam
+system_accent_color_dark1: "#3e8fb0" # pine
+neutral_accent_color: "#44415a" # highlight-med
+neutral_accent_color_pointer_over: "#56526e" # highlight-high
+accent_color1: "#3e8fb0" # pine
+accent_color2: "#eb6f92" # love
+accent_color3: "#ea9a97" # rose
+tick_line_color: "#393552" # overlay
+bar_number_color: "#908caa" # subtle
+final_pitch_color: "#908caa" # subtle
+track_background_alt_color: "#2a273f" # surface
+white_key_color_left: "#eb6f92" # love
+white_key_color_right: "#eb6f92" # love
+white_key_name_color: "#e0def4" # text
+center_key_color_left: "#6e6a86" # muted
+center_key_color_right: "#908caa" # subtle
+center_key_name_color: "#393552" # overlay
+black_key_color_left: "Transparent"
+black_key_color_right: "Transparent"
+black_key_name_color: "#e0def4" # text

@@ -46,6 +46,14 @@ To use, put the yaml file in your OpenUtau/Themes folder.
 ![Nord Dark theme](img/nord-dark.png)  
 ![Nord Light theme](img/nord-light.png)
 
+## Rosé Pine Original/Moon/Dawn
+
+[Source](https://rosepinetheme.com/palette/)
+
+![Rosé Pine theme](img/rose-pine.png)  
+![Rosé Pine Moon theme](img/rose-pine-moon.png)  
+![Rosé Pine Dawn theme](img/rose-pine-dawn.png)
+
 ## Solarized Dark/Light
 
 [Source](https://ethanschoonover.com/solarized/)
@@ -56,5 +64,4 @@ To use, put the yaml file in your OpenUtau/Themes folder.
 ## Planned themes
 
 - Tokyo Night Original/Moon/Storm/Light ([source 1](https://wixdaq.github.io/Tokyo-Night-Website/palette.html)) ([source 2](https://github.com/folke/tokyonight.nvim/tree/main/lua/tokyonight/colors))
-- [Rosé Pine Original/Moon/Dawn](https://rosepinetheme.com/palette/)
 - Feel free to suggest or contribute any other popular and well-documented color palettes.

@@ -1,0 +1,33 @@
+name: Rosé Pine
+is_dark_mode: true
+background_color: "#191724" # base
+background_color_pointer_over: "#21202e" # highlight-low
+background_color_pressed: "#26233a" # overlay
+background_color_disabled: "#1f1d2e" # surface
+foreground_color: "#e0def4" # text
+foreground_color_pointer_over: "#e0def4" # text
+foreground_color_pressed: "#e0def4" # text
+foreground_color_disabled: "#524f67" # highlight-high
+border_color: "#403d52" # highlight-med
+border_color_pointer_over: "#908caa" # subtle
+system_accent_color: "#31748f" # pine
+system_accent_color_light1: "#9ccfd8" # foam
+system_accent_color_dark1: "#31748f" # pine
+neutral_accent_color: "#403d52" # highlight-med
+neutral_accent_color_pointer_over: "#524f67"
+accent_color1: "#31748f" # pine
+accent_color2: "#eb6f92" # love
+accent_color3: "#ebbcba" # rose
+tick_line_color: "#26233a" # overlay
+bar_number_color: "#908caa" # subtle
+final_pitch_color: "#908caa" # subtle
+track_background_alt_color: "#1f1d2e" # surface
+white_key_color_left: "#eb6f92" # love
+white_key_color_right: "#eb6f92" # love
+white_key_name_color: "#e0def4" # text
+center_key_color_left: "#6e6a86" # muted
+center_key_color_right: "#908caa" # subtle
+center_key_name_color: "#403d52" # highlight-med
+black_key_color_left: "Transparent"
+black_key_color_right: "Transparent"
+black_key_name_color: "#e0def4" # text
