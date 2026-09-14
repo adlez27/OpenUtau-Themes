@@ -1,0 +1,33 @@
+name: Tokyo Night Moon
+is_dark_mode: true
+background_color: "#222436" # background
+background_color_pointer_over: "#2d3f76" # bg_visual
+background_color_pressed: "#545c7e" # dark3
+background_color_disabled: "#2f334d" # bg_highlight
+foreground_color: "#c8d3f5" # foreground
+foreground_color_pointer_over: "#c8d3f5" # foreground
+foreground_color_pressed: "#c8d3f5" # foreground
+foreground_color_disabled: "#828bb8" # fg_dark
+border_color: "#545c7e" # dark3
+border_color_pointer_over: "#828bb8" # fg_dark
+system_accent_color: "#82aaff" # blue
+system_accent_color_light1: "#86e1fc" # cyan
+system_accent_color_dark1: "#3e68d7" # blue0
+neutral_accent_color: "#545c7e" # dark3
+neutral_accent_color_pointer_over: "#828bb8" # fg_dark
+accent_color1: "#82aaff" #  blue
+accent_color2: "#ff8d94" # red_bright
+accent_color3: "#c53b53" # error
+tick_line_color: "#545c7e" # dark3
+bar_number_color: "#828bb8" # fg_dark
+final_pitch_color: "#828bb8" # fg_dark
+track_background_alt_color: "#2f334d" # bg_highlight
+white_key_color_left: "#ff757f" # red
+white_key_color_right: "#ff8d94" # red_bright
+white_key_name_color: "#c8d3f5" # foreground
+center_key_color_left: "#828bb8" # fg_dark
+center_key_color_right: "#c8d3f5" # foreground
+center_key_name_color: "#e26a75" # git_delete
+black_key_color_left: "Transparent"
+black_key_color_right: "Transparent"
+black_key_name_color: "#c8d3f5" # foreground

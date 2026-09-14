@@ -3,6 +3,8 @@
 A collection of themes based on popular UI color palettes.  
 To use, put the yaml file in your OpenUtau/Themes folder.
 
+Feel free to contribute any other commonly used and well-documented color palettes.
+
 ## Catppuccin Mocha/Macchiato/Frappé/Latte
 
 [Source](https://catppuccin.com/palette/)
@@ -61,7 +63,11 @@ To use, put the yaml file in your OpenUtau/Themes folder.
 ![Solarized Dark theme](img/solarized-dark.png)  
 ![Solarized Light theme](img/solarized-light.png)
 
-## Planned themes
+## Tokyo Night Original/Moon/Storm/Day
 
-- Tokyo Night Original/Moon/Storm/Light ([source 1](https://wixdaq.github.io/Tokyo-Night-Website/palette.html)) ([source 2](https://github.com/folke/tokyonight.nvim/tree/main/lua/tokyonight/colors))
-- Feel free to suggest or contribute any other popular and well-documented color palettes.
+[Source](https://github.com/folke/tokyonight.nvim)
+
+![Tokyo Night theme](img/tokyo-night.png)  
+![Tokyo Night Moon theme](img/tokyo-night-moon.png)  
+![Tokyo Night Storm theme](img/tokyo-night-storm.png)  
+![Tokyo Night Day theme](img/tokyo-night-day.png)
