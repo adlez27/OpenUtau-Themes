@@ -36,9 +36,15 @@ I'm looking for advice on the Alucard theme. Please feel free to make suggestion
 
 ![Monokai theme](img/monokai.png)
 
+## Solarized Dark/Light
+
+[Source](https://ethanschoonover.com/solarized/)
+
+![Solarized Dark theme](img/solarized-dark.png)  
+![Solarized Light theme](img/solarized-light.png)
+
 ## Planned themes
 
-- [Solarized Light/Dark](https://ethanschoonover.com/solarized/)
 - Tokyo Night Original/Moon/Storm/Light ([source 1](https://wixdaq.github.io/Tokyo-Night-Website/palette.html)) ([source 2](https://github.com/folke/tokyonight.nvim/tree/main/lua/tokyonight/colors))
 - [Nord Dark/Light](https://www.nordtheme.com/docs/colors-and-palettes)
 - [Everforest Dark/Light](https://github.com/sainnhe/everforest)
